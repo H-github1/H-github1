@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu 
-- 👀 I’m interested in PHP , Java Script, CSS. HTML.J query Bootstrap
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in typescript , Java Script
+- 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
